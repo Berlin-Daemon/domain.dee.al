@@ -113,12 +113,12 @@
 {
 "koneksi": "NS",
 "hostku": "ltd", 
-"target": "georgia.ns.cloudflare.com."
+"target": "georgia.ns.cloudflare.com"
 },
 {
 "koneksi": "NS",
 "hostku": "ltd",
-"target": "henrik.ns.cloudflare.com."
+"target": "henrik.ns.cloudflare.com"
 }
 ]
   
