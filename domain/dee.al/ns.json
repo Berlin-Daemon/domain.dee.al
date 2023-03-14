@@ -94,22 +94,22 @@
  "koneksi": "NS",
  "hostku": "shroud",
  "target": "ns1.vercel-dns.com"
-  },
-  {
- "koneksi" : "NS",
- "hostku" : "shroud",
- "target": "ns2.vercel-dns.com"
-    },
-  {
- "koneksi": "NS",
- "hostku": "herobrine",
- "target": "ns1.vercel-dns.com"
-  },
-  {
- "koneksi" : "NS",
- "hostku" : "herobrine",
- "target": "ns2.vercel-dns.com"
-    },
+},
+{
+"koneksi" : "NS",
+"hostku" : "shroud",
+"target": "ns2.vercel-dns.com"
+},
+{
+"koneksi": "NS",
+"hostku": "herobrine",
+"target": "ns1.vercel-dns.com"
+},
+{
+"koneksi" : "NS",
+"hostku" : "herobrine",
+"target": "ns2.vercel-dns.com"
+},
 {
 "koneksi": "NS",
 "hostku": "ltd", 
@@ -121,4 +121,3 @@
 "target": "henrik.ns.cloudflare.com"
 }
 ]
-  
